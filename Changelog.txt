@@ -1,0 +1,10 @@
+Change log
+==========
+
+Column St indicate which compnents are changed. P=Program, M=Manual
+Timestamp should match when its uploaded to git. 
+
+Date and time   St Change 
+2021-12-28 1330 PM initial version
+2021-12-28 1830 PM Fix. jdk path in bat / manual
+2021-12-29 1050 P  Bugfix. Headings in mod matrix now works as intended
