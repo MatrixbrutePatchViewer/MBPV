@@ -9,3 +9,4 @@ Date and time   St Change
 2021-12-28 1830 PM Fix. jdk path in bat / manual
 2021-12-29 1050 P  Bugfix. Headings in mod matrix now works as intended
 2022-03-12 1230 PM Added export to images and html
+2022-03-14 2030 P Split menu bar over 2 lines, allowing window to schrink <100%
